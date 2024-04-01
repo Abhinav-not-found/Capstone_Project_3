@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: 'Montserrat',sans-serif !important;
+}
+
+/*! antd override */
+input{
+    border-radius: 2px !important;
+    border: 1px solid rgba(128, 128, 128, 0.461) !important;
+    height: 40px !important;
+}
+input:focus, .ant-picker{
+    outline: none !important;
+    box-shadow: none !important;
+    border: 1px solid grey !important;
+}
+/* label{
+    font-size: 14px !important;
+    color: white !important;
+} */
+.white{
+    color: rgba(255, 255, 255, 0.557) !important;
+}
+.ant-form-item{
+    margin: 10px 0 !important;
+}
+.ant-picker-input input{
+    border: none !important;
+}
+.ant-picker{
+    height: 40px !important;
+    border-radius: 2px !important;
+    border: 1px solid rgba(128, 128, 128, 0.461) !important;
+}
+
+/*! common styling */
+p{
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.74);
+}
+.spinner-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    /* opacity: 0.8; */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: rgba(0, 0, 0, 0.338);
+}
+.spinner-border{
+    height: 5rem;
+    width: 5rem;
+    color: white;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.success{
+    color: #28A745 !important;
+}
+.danger{
+    color: #DC354B !important;
+}
+.card{
+    box-shadow: 0 0 2px grey;
+    border-radius: 20px;
+    backdrop-filter: blur(5px) saturate(180%);
+    -webkit-backdrop-filter: blur(5px) saturate(180%);
+    background-color: rgba(96, 98, 101, 0.6);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.087);
+}
+.card2{
+    box-shadow: 0 0 2px grey;
+    border-radius: 0px;
+}
+.page-title{
+    text-align: center;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.792);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.card-title{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.55);
+}
+#input{
+    background-color: transparent;
+    color: white;
+}
+
+.normal-text{
+    font-size: 1rem;
+}
+.rsc-header {
+    background-color: #3066BE !important; /* Change to your desired color */
+  }
+  .rsc-os-option-element{
+    background-color: #3066BE !important;
+  }
+.input{
+    font-size: 21px;
+    /* margin-top: 1px; */
+    outline: 1px solid black;
+    border-radius: 10px 10px 10px 0;
+}
+.search{
+    height: 42px;
+    border: 1px solid black;
+    padding: 0 20px;
+    background-color: #005555;
+    color: white;
+    font-weight: bold;
+    border-radius:0 7px 7px 0;
+}
+.inc{
+    font-size: 20px;
+}
+.primary-button{
+    background-color: #005555 !important;
+    border-color: #005555 !important;
+    height: 40px !important;
+    width: 100% !important;
+    color: white !important;
+    font-size: 16px !important;
+    width: max-content !important;
+}
+.full-width-button{
+    width: 100% !important;
+}
+.anchor{
+    color: black;
+    text-decoration: underline;
+    font-size: 16px !important;
+    cursor: pointer;
+}
+.anchor:hover{
+    text-decoration: underline;
+}
+
+.header-action-icons{
+    font-size: 25px;
+    cursor: pointer;
+    padding-left: 10px;
+    color: black;
+}
+.no-u-line{
+    text-decoration: none;
+}
+.pl-25{
+    padding-left: 25px !important;
+}
+/*! authentication pages */
+.authentication{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: #005555; */
+    background-image: url('https://nyulangone.org/files/fn-desktop-sept.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-size: cover;
+}
+.authentication::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(15, 16, 16, 0.616);
+}
+.authentication-form{
+    width: 400px;
+}
+.authentication .card-title{
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: rgb(224, 70, 14);
+    color: white ;
+    max-width: max-content;
+    padding: 7px 15px;
+    margin-left: -40px;
+    border-bottom-left-radius: 10px;
+}
+
+#submit{
+    margin-top: 40px;
+    margin-left: 310px;
+}

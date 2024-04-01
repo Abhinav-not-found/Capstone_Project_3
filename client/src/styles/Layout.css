@@ -1,0 +1,78 @@
+.main{
+    padding: 20px;
+    height: 100vh;
+}
+#logo{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.sidebar{
+    background-color: #005555;
+    border-radius: 5px;
+    box-shadow: 0 0 2px grey;
+    margin-right: 20px;
+    min-height: 100%;
+    padding: 10px;
+
+}
+.collapsed-sidebar{
+    background-color: #005555;
+    border-radius: 5px;
+    box-shadow: 0 0 2px grey;
+    margin-right: 20px;
+    min-height: 100%;
+    padding: 10px;
+    width: 66px;
+}
+.collapsed-text{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.content{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 2px grey;
+    margin-bottom: 20px;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.body{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 2px grey;
+    height: 85vh;
+    width: 100%;
+    padding: 15px;
+}
+.menu{
+    margin-top: 100px;
+}
+.menu-item{
+    margin-top: 30px;
+    & a{
+        color: rgba(255, 255, 255, 0.655);
+        text-decoration: none;
+        font-size: 18px;
+        margin-right: 15px;
+    }
+    & i{
+        color: rgba(255, 255, 255, 0.655);
+        margin: 0 15px;
+        font-size: 18px;
+    }
+}
+.active-menu-item{
+    color: white;
+    background-color: #013737;
+    padding: 5px 0;
+    border-radius: 5px;
+}

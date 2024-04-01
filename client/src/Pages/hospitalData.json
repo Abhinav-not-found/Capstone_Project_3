@@ -1,0 +1,852 @@
+
+    [
+      {
+        "city": "Mumbai",
+        "hospitals": [
+          {
+            "name": "Bombay Hospital",
+            "phone": "+91 22 2206 7676"
+          },
+          {
+            "name": "Jaslok Hospital",
+            "phone": "+91 22 6657 3333"
+          },
+          {
+            "name": "Nanavati Hospital",
+            "phone": "+91 22 2626 7500"
+          }
+        ]
+      },
+      {
+        "city": "Delhi",
+        "hospitals": [
+          {
+            "name": "Max Super Speciality Hospital",
+            "phone": "+91 11 4055 4055"
+          },
+          {
+            "name": "Sir Ganga Ram Hospital",
+            "phone": "+91 11 2575 0000"
+          },
+          {
+            "name": "Indraprastha Apollo Hospital",
+            "phone": "+91 11 7179 1090"
+          }
+        ]
+      },
+      {
+        "city": "Bengaluru",
+        "hospitals": [
+          {
+            "name": "Manipal Hospital",
+            "phone": "+91 80 2502 4444"
+          },
+          {
+            "name": "Fortis Hospital",
+            "phone": "+91 80 6621 4444"
+          },
+          {
+            "name": "Columbia Asia Referral Hospital",
+            "phone": "+91 80 4179 1000"
+          }
+        ]
+      },
+      {
+        "city": "Kolkata",
+        "hospitals": [
+          {
+            "name": "Apollo Gleneagles Hospital",
+            "phone": "+91 33 2320 3040"
+          },
+          {
+            "name": "AMRI Hospitals",
+            "phone": "+91 33 6614 7700"
+          },
+          {
+            "name": "Medica Superspecialty Hospital",
+            "phone": "+91 33 6652 0000"
+          }
+        ]
+      },
+      {
+        "city": "Chennai",
+        "hospitals": [
+          {
+            "name": "Apollo Hospital",
+            "phone": "+91 44 2829 0200"
+          },
+          {
+            "name": "Fortis Malar Hospital",
+            "phone": "+91 44 4289 2222"
+          },
+          {
+            "name": "Global Hospital",
+            "phone": "+91 44 2827 0444"
+          }
+        ]
+      },
+      {
+        "city": "Hyderabad",
+        "hospitals": [
+          {
+            "name": "Apollo Hospitals",
+            "phone": "+91 40 6060 1066"
+          },
+          {
+            "name": "Yashoda Hospitals",
+            "phone": "+91 40 4567 4567"
+          },
+          {
+            "name": "Continental Hospitals",
+            "phone": "+91 40 6700 0000"
+          }
+        ]
+      },
+      {
+        "city": "Pune",
+        "hospitals": [
+          {
+            "name": "Ruby Hall Clinic",
+            "phone": "+91 20 6649 4949"
+          },
+          {
+            "name": "Sahyadri Hospital",
+            "phone": "+91 20 6721 2000"
+          },
+          {
+            "name": "Jehangir Hospital",
+            "phone": "+91 20 6681 1000"
+          }
+        ]
+      },
+      {
+        "city": "Ahmedabad",
+        "hospitals": [
+          {
+            "name": "Apollo Hospitals International Limited",
+            "phone": "+91 79 2676 0000"
+          },
+          {
+            "name": "CIMS Hospital",
+            "phone": "+91 79 2771 2771"
+          },
+          {
+            "name": "Sterling Hospitals",
+            "phone": "+91 79 4024 2424"
+          }
+        ]
+      },
+      {
+        "city": "Jaipur",
+        "hospitals": [
+          {
+            "name": "Fortis Escorts Hospital",
+            "phone": "+91 141 254 7000"
+          },
+          {
+            "name": "Sawai Man Singh Hospital",
+            "phone": "+91 141 256 0291"
+          },
+          {
+            "name": "Apex Hospitals",
+            "phone": "+91 141 277 1777"
+          }
+        ]
+      },
+      {
+        "city": "Lucknow",
+        "hospitals": [
+          {
+            "name": "King George's Medical University",
+            "phone": "+91 522 225 7450"
+          },
+          {
+            "name": "Ram Manohar Lohia Institute of Medical Sciences",
+            "phone": "+91 522 491 8504"
+          },
+          {
+            "name": "Medanta Hospital",
+            "phone": "+91 522 440 2200"
+          }
+        ]
+      },
+      {
+        "city": "Chandigarh",
+        "hospitals": [
+          {
+            "name": "Post Graduate Institute of Medical Education and Research (PGIMER)",
+            "phone": "+91 172 274 6018"
+          },
+          {
+            "name": "Government Medical College and Hospital",
+            "phone": "+91 172 266 5253"
+          },
+          {
+            "name": "Fortis Hospital",
+            "phone": "+91 172 469 2222"
+          }
+        ]
+      },
+      {
+        "city": "Surat",
+        "hospitals": [
+          {
+            "name": "Sunshine Global Hospital",
+            "phone": "+91 261 715 8888"
+          },
+          {
+            "name": "Sanjeevani Multispeciality Hospital",
+            "phone": "+91 261 278 8111"
+          },
+          {
+            "name": "Bombay Hospital",
+            "phone": "+91 261 306 6666"
+          }
+        ]
+      },
+      {
+        "city": "Visakhapatnam",
+        "hospitals": [
+          {
+            "name": "SevenHills Hospital",
+            "phone": "+91 891 305 5555"
+          },
+          {
+            "name": "Care Hospitals",
+            "phone": "+91 891 256 5000"
+          },
+          {
+            "name": "Indus Hospital",
+            "phone": "+91 891 270 8888"
+          }
+        ]
+      },
+      {
+        "city": "Indore",
+        "hospitals": [
+          {
+            "name": "Choithram Hospital and Research Centre",
+            "phone": "+91 731 236 2491"
+          },
+          {
+            "name": "Apollo Hospitals",
+            "phone": "+91 731 403 1100"
+          },
+          {
+            "name": "Bombay Hospital",
+            "phone": "+91 731 306 6666"
+        }
+      ]
+    },
+    {
+      "city": "Bhopal",
+      "hospitals": [
+        {
+          "name": "Hamidia Hospital",
+          "phone": "+91 755 254 0597"
+        },
+        {
+          "name": "Chirayu Hospital",
+          "phone": "+91 755 400 5100"
+        },
+        {
+          "name": "LN Medical College and JK Hospital",
+          "phone": "+91 755 669 0000"
+        }
+      ]
+    },
+    {
+      "city": "Nagpur",
+      "hospitals": [
+        {
+          "name": "Government Medical College and Hospital",
+          "phone": "+91 712 270 1640"
+        },
+        {
+          "name": "Wockhardt Hospitals",
+          "phone": "+91 712 398 2222"
+        },
+        {
+          "name": "CIIMS Hospital",
+          "phone": "+91 712 710 5000"
+        }
+      ]
+    },
+    {
+      "city": "Patna",
+      "hospitals": [
+        {
+          "name": "Patna Medical College and Hospital",
+          "phone": "+91 612 230 0343"
+        },
+        {
+          "name": "AIIMS Patna",
+          "phone": "+91 612 245 2923"
+        },
+        {
+          "name": "Indira Gandhi Institute of Medical Sciences",
+          "phone": "+91 612 229 7631"
+        }
+      ]
+    },
+    {
+      "city": "Agra",
+      "hospitals": [
+        {
+          "name": "SN Medical College and Hospital",
+          "phone": "+91 562 226 0353"
+        },
+        {
+          "name": "Pushpanjali Hospital",
+          "phone": "+91 562 260 1360"
+        },
+        {
+          "name": "Lotus Super Specialty Hospital",
+          "phone": "+91 562 308 8888"
+        }
+      ]
+    },
+    {
+      "city": "Varanasi",
+      "hospitals": [
+        {
+          "name": "Sir Sunderlal Hospital",
+          "phone": "+91 542 236 7568"
+        },
+        {
+          "name": "Heritage Hospitals",
+          "phone": "+91 542 710 7777"
+        },
+        {
+          "name": "Varanasi Hospital",
+          "phone": "+91 542 227 5554"
+        }
+      ]
+    },
+    {
+      "city": "Bhubaneswar",
+      "hospitals": [
+        {
+          "name": "AIIMS Bhubaneswar",
+          "phone": "+91 674 247 6789"
+        },
+        {
+          "name": "Kalinga Hospital",
+          "phone": "+91 674 230 0570"
+        },
+        {
+          "name": "Apollo Hospitals",
+          "phone": "+91 674 666 1010"
+        }
+      ]
+    },
+    {
+      "city": "Coimbatore",
+      "hospitals": [
+        {
+          "name": "KMCH Hospital",
+          "phone": "+91 422 232 2322"
+        },
+        {
+          "name": "Ganga Hospital",
+          "phone": "+91 422 248 5000"
+        },
+        {
+          "name": "PSG Hospitals",
+          "phone": "+91 422 257 0170"
+        }
+      ]
+    },
+    {
+      "city": "Madurai",
+      "hospitals": [
+        {
+          "name": "Apollo Speciality Hospitals",
+          "phone": "+91 452 258 0892"
+        },
+        {
+          "name": "Meenakshi Mission Hospital",
+          "phone": "+91 452 258 8741"
+        },
+        {
+          "name": "Velammal Medical College Hospital and Research Institute",
+          "phone": "+91 452 294 0945"
+        }
+      ]
+    },
+    {
+      "city": "Guwahati",
+      "hospitals": [
+        {
+          "name": "Guwahati Medical College and Hospital",
+          "phone": "+91 361 254 0539"
+        },
+        {
+          "name": "Dispur Hospitals",
+          "phone": "+91 361 222 0011"
+        },
+        {
+          "name": "Hayat Hospital",
+          "phone": "+91 361 223 2442"
+        }
+      ]
+    },
+    {
+      "city": "Amritsar",
+      "hospitals": [
+        {
+          "name": "Government Medical College and Hospital",
+          "phone": "+91 183 242 6918"
+        },
+        {
+          "name": "Fortis Escorts Hospital",
+          "phone": "+91 183 505 5301"
+        },
+        {
+          "name": "Amandeep Hospital",
+          "phone": "+91 183 505 0501"
+        }
+      ]
+    },
+    {
+      "city": "Jodhpur",
+      "hospitals": [
+        {
+          "name": "AIIMS Jodhpur",
+          "phone": "+91 291 274 0741"
+        },
+        {
+          "name": "Mehrangarh Fort Hospital Trust",
+          "phone": "+91 291 255 0332"
+        },
+        {
+          "name": "Suncity Hospital",
+          "phone": "+91 291 272 7777"
+        }
+      ]
+    },
+    {
+      "city": "Phagwara",
+      "hospitals": [
+        {
+          "name": "Civil Hospital",
+          "phone": "+91 291 272 7777"
+        },
+        {
+          "name": "Virk Hospital",
+          "phone": "+91 291 274 0741"
+        },
+        {
+          "name": "Gupta Hospital",
+          "phone": "+91 291 255 0332"
+        }
+      ]
+    },
+    {
+    "city": "Ahmednagar",
+    "hospitals": [
+      {
+        "name": "Krishna Hospital",
+        "phone": "+91 241 277 5218"
+      },
+      {
+        "name": "Saishree Hospital",
+        "phone": "+91 241 277 7777"
+      },
+      {
+        "name": "Siddhivinayak Hospital",
+        "phone": "+91 241 277 7825"
+      }
+    ]
+  },
+  {
+    "city": "Shillong",
+    "hospitals": [
+      {
+        "name": "North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences (NEIGRIHMS)",
+        "phone": "+91 364 253 8013"
+      },
+      {
+        "name": "Nazareth Hospital",
+        "phone": "+91 364 250 5798"
+      },
+      {
+        "name": "Woodland Hospital",
+        "phone": "+91 364 222 0305"
+      }
+    ]
+  },
+  {
+    "city": "Srinagar",
+    "hospitals": [
+      {
+        "name": "Sher-i-Kashmir Institute of Medical Sciences (SKIMS)",
+        "phone": "+91 194 240 1013"
+      },
+      {
+        "name": "Government Medical College, Srinagar",
+        "phone": "+91 194 245 3114"
+      },
+      {
+        "name": "Shri Maharaja Hari Singh (SMHS) Hospital",
+        "phone": "+91 194 245 2013"
+      }
+    ]
+  },
+  {
+    "city": "Aurangabad",
+    "hospitals": [
+      {
+        "name": "Shivani Hospital",
+        "phone": "+91 240 248 8811"
+      },
+      {
+        "name": "Wockhardt Hospitals",
+        "phone": "+91 240 660 4444"
+      },
+      {
+        "name": "Samarth Hospital",
+        "phone": "+91 240 233 6600"
+      }
+    ]
+  },
+  {
+    "city": "Tirupati",
+    "hospitals": [
+      {
+        "name": "Sri Venkateswara Institute of Medical Sciences (SVIMS)",
+        "phone": "+91 877 228 7777"
+      },
+      {
+        "name": "Ruin Multispeciality Hospital",
+        "phone": "+91 877 222 2001"
+      },
+      {
+        "name": "Sri Sai Hospital",
+        "phone": "+91 877 225 4444"
+      }
+    ]
+  },
+  {
+    "city": "Nashik",
+    "hospitals": [
+      {
+        "name": "Wockhardt Hospitals",
+        "phone": "+91 253 662 4444"
+      },
+      {
+        "name": "Apollo Hospital",
+        "phone": "+91 253 663 7000"
+      },
+      {
+        "name": "Suyash Hospital",
+        "phone": "+91 253 230 1666"
+      }
+    ]
+  },
+  {
+    "city": "Agartala",
+    "hospitals": [
+      {
+        "name": "Agartala Government Medical College",
+        "phone": "+91 381 235 7001"
+      },
+      {
+        "name": "Bhagat Singh Hospital",
+        "phone": "+91 381 220 8888"
+      },
+      {
+        "name": "Dr. B.R. Ambedkar Memorial Teaching Hospital",
+        "phone": "+91 381 222 3715"
+      }
+    ]
+  },
+  {
+    "city": "Jammu",
+    "hospitals": [
+      {
+        "name": "Government Medical College, Jammu",
+        "phone": "+91 191 258 4234"
+      },
+      {
+        "name": "Shri Mata Vaishno Devi Narayana Superspeciality Hospital",
+        "phone": "+91 191 226 2276"
+      },
+      {
+        "name": "Acharya Shri Chander College of Medical Sciences Hospital",
+        "phone": "+91 191 247 2756"
+      }
+    ]
+  },
+  {
+    "city": "Mangalore",
+    "hospitals": [
+      {
+        "name": "Kasturba Medical College Hospital",
+        "phone": "+91 824 222 5533"
+      },
+      {
+        "name": "A.J. Hospital and Research Centre",
+        "phone": "+91 824 661 9999"
+      },
+      {
+        "name": "Wenlock District Government Hospital",
+        "phone": "+91 824 242 5741"
+      }
+    ]
+  },
+  {
+    "city": "Gwalior",
+    "hospitals": [
+      {
+        "name": "Gajara Raja Medical College Hospital",
+        "phone": "+91 751 240 3444"
+      },
+      {
+        "name": "Aurobindo Hospital",
+        "phone": "+91 751 240 1975"
+      },
+      {
+        "name": "Suyash Hospital",
+        "phone": "+91 751 232 0123"
+      }
+    ]
+  },
+  {
+    "city": "Kochi",
+    "hospitals": [
+      {
+        "name": "Aster Medcity",
+        "phone": "+91 484 669 9999"
+      },
+      {
+        "name": "Lakeshore Hospital and Research Centre",
+        "phone": "+91 484 270 1032"
+      },
+      {
+        "name": "Medical Trust Hospital",
+        "phone": "+91 484 235 8001"
+      }
+    ]
+  },
+  {
+    "city": "Rajkot",
+    "hospitals": [
+      {
+        "name": "Sterling Hospitals",
+        "phone": "+91 281 394 4111"
+      },
+      {
+        "name": "Civil Hospital",
+        "phone": "+91 281 222 6466"
+      },
+      {
+        "name": "Wockhardt Hospitals",
+        "phone": "+91 281 669 4444"
+      }
+    ]
+  },
+  {
+    "city": "Ghaziabad",
+    "hospitals": [
+      {
+        "name": "Yashoda Super Speciality Hospital",
+        "phone": "+91 120 418 9500"
+      },
+      {
+        "name": "Columbia Asia Hospital",
+        "phone": "+91 120 616 5666"
+      },
+      {
+        "name": "Max Super Speciality Hospital",
+        "phone": "+91 120 716 1234"
+      }
+    ]
+  },
+  {
+    "city": "Noida",
+    "hospitals": [
+      {
+        "name": "Apollo Hospitals",
+        "phone": "+91 120 244 4444"
+      },
+      {
+        "name": "Fortis Hospital",
+        "phone": "+91 120 430 0222"
+      }
+    ]
+  },
+  {
+    "city": "Allahabad",
+    "hospitals": [
+      {
+        "name": "Naini Central Jail Hospital",
+        "phone": "+91 532 269 1569"
+      },
+      {
+        "name": "K.P.C. Medical College and Hospital",
+        "phone": "+91 532 240 8551"
+      },
+      {
+        "name": "Sarojini Naidu Medical College and Hospital",
+        "phone": "+91 532 246 6660"
+      }
+    ]
+  },
+  {
+    "city": "Ranchi",
+    "hospitals": [
+      {
+        "name": "Rajendra Institute of Medical Sciences (RIMS)",
+        "phone": "+91 651 254 1533"
+      },
+      {
+        "name": "Apollo Hospitals",
+        "phone": "+91 651 661 1111"
+      },
+      {
+        "name": "Medanta Hospital",
+        "phone": "+91 651 233 6011"
+      }
+    ]
+  },
+  {
+    "city": "Kanpur",
+    "hospitals": [
+      {
+        "name": "Regency Hospital",
+        "phone": "+91 512 256 1111"
+      },
+      {
+        "name": "Lala Lajpat Rai Hospital",
+        "phone": "+91 512 254 0121"
+      },
+      {
+        "name": "Apollo Spectra Hospitals",
+        "phone": "+91 512 306 1000"
+      }
+    ]
+  },
+  {
+    "city": "Jamshedpur",
+    "hospitals": [
+      {
+        "name": "Tata Main Hospital",
+        "phone": "+91 657 664 2270"
+      },
+      {
+        "name": "Super Specialty Hospital",
+        "phone": "+91 657 664 1111"
+      },
+      {
+        "name": "Life Care Hospital",
+        "phone": "+91 657 662 0011"
+      }
+    ]
+  },
+  {
+    "city": "Howrah",
+    "hospitals": [
+      {
+        "name": "Howrah General Hospital",
+        "phone": "+91 33 2641 3719"
+      },
+      {
+        "name": "Howrah District Hospital",
+        "phone": "+91 33 2641 1025"
+      },
+      {
+        "name": "Sri Aurobindo Seva Kendra",
+        "phone": "+91 33 2655 9028"
+      }
+    ]
+  },
+  {
+    "city": "Jalandhar",
+    "hospitals": [
+      {
+        "name": "Amandeep Hospital",
+        "phone": "+91 181 230 2400"
+      },
+      {
+        "name": "Kapurthala Civil Hospital",
+        "phone": "+91 1822 232 010"
+      },
+      {
+        "name": "Pushpa Gujral Science City",
+        "phone": "+91 1822 662 500"
+      }
+    ]
+  },
+  {
+    "city": "Gorakhpur",
+    "hospitals": [
+      {
+        "name": "BRD Medical College",
+        "phone": "+91 551 250 1731"
+      },
+      {
+        "name": "Divya Hospital",
+        "phone": "+91 551 220 5667"
+      },
+      {
+        "name": "Life Line Hospital",
+        "phone": "+91 551 234 1834"
+      }
+    ]
+  },
+  {
+    "city": "Dhanbad",
+    "hospitals": [
+      {
+        "name": "Central Hospital",
+        "phone": "+91 326 222 0460"
+      },
+      {
+        "name": "Guru Nanak Hospital",
+        "phone": "+91 326 229 2707"
+      },
+      {
+        "name": "Healthpoint Hospital",
+        "phone": "+91 326 220 0336"
+      }
+    ]
+  },
+  {
+    "city": "Salem",
+    "hospitals": [
+      {
+        "name": "G. Kuppuswamy Naidu Memorial Hospital",
+        "phone": "+91 427 221 2121"
+      },
+      {
+        "name": "Vinayaka Mission's Medical College Hospital",
+        "phone": "+91 427 398 7000"
+      },
+      {
+        "name": "Sri Gokulam Hospital",
+        "phone": "+91 427 232 7777"
+      }
+    ]
+  },
+  {
+    "city": "Kota",
+    "hospitals": [
+      {
+        "name": "Bharat Vikas Parishad Hospital",
+        "phone": "+91 744 250 1001"
+      },
+      {
+        "name": "MGM Hospital",
+        "phone": "+91 744 243 1820"
+      },
+      {
+        "name": "Aadhar Hospital",
+        "phone": "+91 744 239 1444"
+      }
+    ]
+  }
+]
+
+
+  
